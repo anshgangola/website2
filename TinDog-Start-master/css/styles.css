@@ -1,0 +1,140 @@
+#title{
+    background-color: #404258;
+}
+h1{
+    font-family: montserrat-black;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+h2{
+    font-family: "Montserrat-Bold";
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h3{
+    font-family: "Montserrat-Bold";
+    font-weight: bold;
+}
+p{
+    color: #8f8f8f;
+}
+body{
+size:auto;
+}
+.navbar-brand{
+    padding-left:0;
+    font-family: "Ubuntu";
+    font-size: 2rem;
+    font-weight: lighter;
+}
+.navbar{
+    padding-: 0 0 2rem 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 2%;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+}
+
+.container-fluid{
+        /* padding-top: 3%;
+        padding-bottom: 3%;
+        padding-right: 0.3%; */
+        padding: 0;
+}
+.row1{
+    padding: 7% 15%;
+}
+.col-lg-6
+{
+    padding-top: 2%;
+}
+#title
+{
+    font-family: montserrat-black;
+    font-weight: 10;
+    
+}
+.img{
+    width: 300px;
+    height: 290px;
+    margin-left: 2rem;
+}
+
+.button-down{
+    margin:5% 3% 5% 0; 
+}
+
+#features{
+    padding: 7% 15%;
+}
+.f1{
+    text-align: center;
+    padding: 5%;
+}
+.f2{
+    color:#251749;
+    margin-bottom: 0.8rem;
+}
+.f2:hover{
+    color: #495579;
+}
+#testimonials{
+    text-align: center;
+    background-color:#404258 ;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.test-img{
+    border-radius: 100%;
+    width: 15%;
+    margin: 20px;
+}
+#press{
+    padding-bottom: 3%;
+    text-align: center;
+    background-color:#404258 ;
+}
+.p-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+    background-color: none;
+}
+#pricing{
+    font-weight: bold;
+    padding: 100px;
+    text-align: center;
+}
+.row{
+    margin-left: 0;
+    padding-left: 0;
+} 
+.pc{
+    padding-right:3%;
+    padding-left: 0;
+}
+
+#cta{
+    background-color: #404258;
+    text-align: center;
+    padding: 7% 15%;
+}
+.cta-heading{
+    font-family: montserrat-black;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+#footer{
+    padding: 7% 15%;
+
+    text-align: center;
+}
+.socila-icon{
+    margin: 20px 10px;
+}
